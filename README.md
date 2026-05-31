@@ -19,7 +19,7 @@ A Power BI dashboard that visualizes stock performance trends for five major tec
 ---
 
 ### GOOGL – Alphabet Inc. (2024)
-![GOOGL Dashboard](Screenshot_2026-05-31_162909.png)
+![GOOGL Dashboard](https://github.com/Anuraggapex/powerbi-analytics-dashboard/blob/main/Screenshot%202026-05-31%20162909.png?raw=true)
 > Filtered view for Google. Sum of Volume: **893.73M** | Max High: **201.19** | Avg Close: **181.67**
 
 ---
