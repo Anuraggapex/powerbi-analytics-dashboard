@@ -10,8 +10,6 @@ Instead of just looking at spreadsheets, this project is designed to give stakeh
 
 > 💡 **Note:** Since GitHub can't open a `.pbix` file on its own, here is a look at the main reporting canvas. To click around and interact with the data, you can download the file locally!
 
-![Dashboard Main View](dashboard-preview.png)
-
 ---
 
 ## 🛠️ What went into this project?
@@ -42,5 +40,11 @@ Here is a breakdown of the actual work done behind the scenes to take this from 
 
 ```text
 ├── README.md               <- This guide right here
+├── dashboard-preview.png   <- A screenshot of the dashboard
+├── dashboard-preview.png   <- A screenshot of the dashboard
+├── dashboard-preview.png   <- A screenshot of the dashboard
+├── dashboard-preview.png   <- A screenshot of the dashboard
+├── dashboard-preview.png   <- A screenshot of the dashboard
+├── dashboard-preview.png   <- A screenshot of the dashboard
 ├── dashboard-preview.png   <- A screenshot of the dashboard 
 └── analytics_report.pbix   <- The core Power BI file (data, model, and visuals)
