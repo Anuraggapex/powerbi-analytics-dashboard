@@ -31,7 +31,7 @@ A Power BI dashboard that visualizes stock performance trends for five major tec
 ---
 
 ### AMZN – Amazon.com Inc. (2024)
-![AMZN Dashboard](Screenshot_2026-05-31_162948.png)
+![AMZN Dashboard](https://github.com/Anuraggapex/powerbi-analytics-dashboard/blob/main/Screenshot%202026-05-31%20162948.png?raw=true)
 > Filtered view for Amazon. Sum of Volume: **1.09bn** | Max High: **233.00** | Avg Close: **217.79**
 
 ---
