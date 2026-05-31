@@ -186,28 +186,27 @@ in
 ## 📁 File Structure
 
 ```
-tech-stock-dashboard/
-│
-├── README.md                          # This file
-├── TechStockDashboard.pbix            # Power BI project file
-└── screenshots/
-    ├── Screenshot_2026-05-31_162744.png   # Overall view
-    ├── Screenshot_2026-05-31_162849.png   # AAPL view
-    ├── Screenshot_2026-05-31_162909.png   # GOOGL view
-    ├── Screenshot_2026-05-31_162928.png   # MSFT view
-    ├── Screenshot_2026-05-31_162948.png   # AMZN view
-    └── Screenshot_2026-05-31_163004.png   # NVDA view
+your-repo/
+├── README.md
+├── TechStockDashboard.pbix
+├── Screenshot_2026-05-31_162744.png   # Overall view
+├── Screenshot_2026-05-31_162849.png   # AAPL view
+├── Screenshot_2026-05-31_162909.png   # GOOGL view
+├── Screenshot_2026-05-31_162928.png   # MSFT view
+├── Screenshot_2026-05-31_162948.png   # AMZN view
+└── Screenshot_2026-05-31_163004.png   # NVDA view
 ```
 
 ---
 
+
 ## 🚀 How to Use
 
-1. Open `TechStockDashboard.pbix` in **Power BI Desktop**
-2. Use the **Year slicer** on the left to filter by specific years
-3. Click on any **company logo** at the top-left to isolate a single company's data
-4. Hover over any chart element to see detailed tooltips
-5. Click on any bar, slice, or data point to **cross-filter** all other visuals
+1. **Download** the `.pbix` file and open it in Power BI Desktop
+2. **Pick a year** using the slicer on the left
+3. **Click a company logo** to filter down to one stock
+4. **Hover** over any chart for detailed tooltips
+5. **Click** any bar or slice to cross-filter all visuals instantly
 
 ---
 
