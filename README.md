@@ -25,7 +25,7 @@ A Power BI dashboard that visualizes stock performance trends for five major tec
 ---
 
 ### MSFT – Microsoft Corporation (2024)
-![MSFT Dashboard](Screenshot_2026-05-31_162928.png)
+![MSFT Dashboard](https://github.com/Anuraggapex/powerbi-analytics-dashboard/blob/main/Screenshot%202026-05-31%20162928.png?raw=trueg)
 > Filtered view for Microsoft. Sum of Volume: **633.32M** | Max High: **455.25** | Avg Close: **432.37**
 
 ---
