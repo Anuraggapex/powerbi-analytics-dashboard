@@ -7,7 +7,7 @@ A Power BI dashboard that visualizes stock performance trends for five major tec
 ## 📸 Dashboard Screenshots
 
 ### Overall View (All Companies, All Years)
-![Overall Dashboard](Screenshot_2026-05-31_162744.png)
+![Overall Dashboard](https://github.com/Anuraggapex/powerbi-analytics-dashboard/blob/main/Screenshot%202026-05-31%20162744.png?raw=true)
 > Full dashboard showing aggregated metrics across all five companies and all years (2010–2024).
 
 ---
