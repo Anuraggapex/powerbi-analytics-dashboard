@@ -37,7 +37,7 @@ A Power BI dashboard that visualizes stock performance trends for five major tec
 ---
 
 ### NVDA – NVIDIA Corporation (2024)
-![NVDA Dashboard](Screenshot_2026-05-31_163004.png)
+![NVDA Dashboard](https://github.com/Anuraggapex/powerbi-analytics-dashboard/blob/main/Screenshot%202026-05-31%20163004.png?raw=true)
 > Filtered view for NVIDIA. Sum of Volume: **6.39bn** | Max High: **152.87** | Avg Close: **138.31**
 
 ---
