@@ -13,7 +13,7 @@ A Power BI dashboard that visualizes stock performance trends for five major tec
 ---
 
 ### AAPL – Apple Inc. (2024)
-![AAPL Dashboard](Screenshot_2026-05-31_162849.png)
+![AAPL Dashboard](https://github.com/Anuraggapex/powerbi-analytics-dashboard/blob/main/Screenshot%202026-05-31%20162849.png?raw=true)
 > Filtered view for Apple. Sum of Volume: **1.37bn** | Max High: **259.81** | Avg Close: **243.72**
 
 ---
